@@ -121,7 +121,7 @@ Finally, the credit for finally giving birth to the project probably goes to
 * [Loving Lisp - the Savy Programmer's Secret Weapon](https://leanpub.com/lovinglisp/) by Mark Watson
 * [FranzInc](https://franz.com/), a company selling Common Lisp and Graph Database solutions.
 
-[perl]: http://www.oreilly.com/catalog/cookbook/
+[perl]: http://shop.oreilly.com/product/9780596003135.do
 [thread]: http://groups.google.com/groups?threadm=m3it9soz3m.fsf%40bird.agharta.de
 [cll]: news:comp.lang.lisp
 [msg]: http://groups.google.com/groups?selm=76be8851.0201222259.70ecbcb1%40posting.google.com
